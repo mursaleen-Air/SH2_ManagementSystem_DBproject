@@ -1,0 +1,1 @@
+When logging in my Software House Management System for the username "231213", password is 123 and usertype is "Employee" and when entering usernames either "231185" or "231187" the password is 1234 and the usertype can be either "CEO" or "DataBase Admin"
